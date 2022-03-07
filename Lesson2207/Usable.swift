@@ -1,0 +1,5 @@
+protocol Usaable {
+    
+    func using()
+    
+}
